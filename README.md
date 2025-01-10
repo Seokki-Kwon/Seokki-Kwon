@@ -8,6 +8,7 @@ side projects
     * SwiftUI, Combine, Clean Architecture
     * Used by over 500 Hongik University students.
   * [🏃 trackus](https://github.com/Team-TrackUs/Trackus-iOS) - running and wellness app that supports your personal growth.
+  * [dayPlanner]() - simple schedule app using RxSwift
 
 <h4>Activities</h4> 
 <ul>
