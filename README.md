@@ -1,11 +1,22 @@
-<div align="center">
+<div align="left">
 
-## iOS Developer | SEOK KI KWON
+<h3>About me</h3>
 
-### About me!
-> 꾸준함을 무기로 성장하는 iOS 개발자입니다 🌱 <br/>
 
-### 🛠️ Tech Stack
+side projects
+  * [✍️ hongik-yeolgong2](https://github.com/TeamHY2/HongikYeolgong2-iOS) -  improve Hongik University's study room system and support students' learning.
+    * SwiftUI, Combine, Clean Architecture
+    * Used by over 500 Hongik University students.
+  * [🏃 trackus](https://github.com/Team-TrackUs/Trackus-iOS) - running and wellness app that supports your personal growth.
+
+<h4>Activities</h4> 
+<ul>
+  <li>DND-12th-iOS (24.12 ~ ing)</li>
+  <li>yagom-academy starterCamp (24.01 ~ 24.02)</li>
+  <li>TechIt iOS School 3rd (23.09 ~ 24.02)</li>
+</ul>
+
+#
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white)
@@ -17,11 +28,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-### Projects
-| Project | Period | Skills | Links |
-|---------|--------|---------|-------|
-| 홍익열공이 | 2024.07 ~ | SwiftUI, Reactive With Combine, fastlane | · [GitHub](https://github.com/TeamHY2/HongikYeolgong2-iOS) <br/> · [AppStore](https://apps.apple.com/kr/app/%ED%99%8D%EC%9D%B5%EC%97%B4%EA%B3%B5%EC%9D%B4/id6505141926) |
-| 나모(나의모임) | 2024.08 ~ | SwiftUI, TCA, Tuist | [GitHub](https://github.com/Namo-log/iOS_SwiftUI) |
-| 트랙어스 | 2023.09 - 2024.02 | UIKit, MVC, Firebase | · [GitHub](https://github.com/Team-TrackUs/Trackus-iOS) <br/> · [AppStore](링크) |
-
 </div>
