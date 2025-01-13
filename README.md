@@ -3,8 +3,9 @@
 <h3>About me</h3>
 
 
-side projects
-  * [✍️ hongik-yeolgong2](https://github.com/TeamHY2/HongikYeolgong2-iOS) -  improve Hongik University's study room system and support students' learning.
+<h4>Projects</h4>
+
+  * [✍️ hongikYeolgong2](https://github.com/TeamHY2/HongikYeolgong2-iOS) -  improve Hongik University's study room system and support students' learning.
     * SwiftUI, Combine, Clean Architecture
     * Used by over 500 Hongik University students.
   * [🏃 trackus](https://github.com/Team-TrackUs/Trackus-iOS) - running and wellness app that supports your personal growth.
