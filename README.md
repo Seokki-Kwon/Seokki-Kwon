@@ -5,11 +5,9 @@
 
 <h4>Projects</h4>
 
-  * [✍️ hongikYeolgong2](https://github.com/TeamHY2/HongikYeolgong2-iOS) -  improve Hongik University's study room system and support students' learning.
-    * SwiftUI, Combine, Clean Architecture
-    * Used by over 500 Hongik University students.
-  * [🏃 trackus](https://github.com/Team-TrackUs/Trackus-iOS) - running and wellness app that supports your personal growth.
-  * [dayPlanner]() - simple schedule app using RxSwift
+  * [✍️ hongikYeolgong2](https://github.com/TeamHY2/HongikYeolgong2-iOS)
+  * [🏃 trackus](https://github.com/Team-TrackUs/Trackus-iOS)
+  * [dayPlanner](https://github.com/Seokki-Kwon/DayPlanner)
 
 <h4>Activities</h4> 
 <ul>
