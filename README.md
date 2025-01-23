@@ -5,8 +5,8 @@
 
 <h4>Projects</h4>
 
-  * [✍️ hongikYeolgong2](https://github.com/TeamHY2/HongikYeolgong2-iOS)
-  * [🏃 trackus](https://github.com/Team-TrackUs/Trackus-iOS)
+  * [hongikYeolgong2](https://github.com/TeamHY2/HongikYeolgong2-iOS)
+  * [trackus](https://github.com/Team-TrackUs/Trackus-iOS)
   * [dayPlanner](https://github.com/Seokki-Kwon/DayPlanner)
 
 <h4>Activities</h4> 
